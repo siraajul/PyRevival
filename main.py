@@ -1,1 +1,5 @@
-print('Hello World!')
+#end is end of the line
+print('Hello World!',end='->')
+
+#sep is separator
+print('Hello', 'World!',sep=' ')
